@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Berkeley Admissions</string>
 
+    <string name="game_title">Bigger Number Game!</string>
+    <string name="game_description">Press the button with the bigger number and you will get accepted to UC Berkeley!</string>
+
+    <string name="zero">0</string>
+
     <string name="win_dialogue">You win!</string>
 </resources>
